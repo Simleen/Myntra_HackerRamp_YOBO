@@ -1,0 +1,2 @@
+include ':Decor'
+include ':app', ':OpenCV'
